@@ -13,3 +13,4 @@ dist/
 # IDE e sistema
 .vscode/
 .DS_Store
+*.db
